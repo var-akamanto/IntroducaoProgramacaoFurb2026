@@ -19,4 +19,7 @@ public class Salario {
         System.out.println("NUMBER = " + matricula);
         System.out.println("SALARY = U$ " + salarioFormatado);
     }
+    public static void main(String[] args) {
+        salario();
+    }
 }

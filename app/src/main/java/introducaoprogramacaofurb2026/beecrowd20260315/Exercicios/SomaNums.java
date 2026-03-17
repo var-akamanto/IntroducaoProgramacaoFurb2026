@@ -11,4 +11,7 @@ public class SomaNums {
         sc.close();
         System.out.println("X = " + X);
     }
+    public static void main(String[] args) {
+        somaNums();
+    }
 }

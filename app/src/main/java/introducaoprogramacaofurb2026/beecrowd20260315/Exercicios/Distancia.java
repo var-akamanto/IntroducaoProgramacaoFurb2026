@@ -10,4 +10,7 @@ public class Distancia {
         int tempoMinutos = varDistanciaKm * 2;
         System.out.println(tempoMinutos + " minutos");
     }
+    public static void main(String[] args) {
+        distancia();
+    }
 }

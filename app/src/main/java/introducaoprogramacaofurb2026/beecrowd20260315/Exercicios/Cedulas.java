@@ -18,4 +18,7 @@ public class Cedulas {
                     valor = valor%cedula;  
                 }
             }
+            public static void main(String[] args) {
+                cedulas();
+            }
         }

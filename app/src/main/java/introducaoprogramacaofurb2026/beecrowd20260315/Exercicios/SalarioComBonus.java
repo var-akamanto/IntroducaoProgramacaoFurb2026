@@ -21,4 +21,7 @@ public class SalarioComBonus {
 
         System.out.println("TOTAL = R$" + salarioFinalFormatado);
     }
+    public static void main(String[] args) {
+        salarioComBonus();
+    }
 }

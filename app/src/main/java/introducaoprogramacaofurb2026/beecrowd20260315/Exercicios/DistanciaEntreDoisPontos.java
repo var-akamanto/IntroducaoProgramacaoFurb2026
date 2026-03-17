@@ -1,8 +1,7 @@
 package introducaoprogramacaofurb2026.beecrowd20260315.Exercicios;
 
-import java.util.Scanner;
-import java.lang.Math;
 import java.text.DecimalFormat;
+import java.util.Scanner;
 
 public class DistanciaEntreDoisPontos {
     public static void distanciaEntreDoisPontos(){
@@ -21,5 +20,8 @@ public class DistanciaEntreDoisPontos {
 
         System.out.println(distanciaFormatada);
  
+    }
+    public static void main(String[] args) {
+        distanciaEntreDoisPontos();
     }
 }

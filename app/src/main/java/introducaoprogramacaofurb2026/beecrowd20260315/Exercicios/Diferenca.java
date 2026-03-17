@@ -16,4 +16,7 @@ public class Diferenca {
         System.out.println("DIFERENCA = " + diferenca);
         sc.close();
     }
+    public static void main(String[] args) {
+        diferenca();
+    }
 }

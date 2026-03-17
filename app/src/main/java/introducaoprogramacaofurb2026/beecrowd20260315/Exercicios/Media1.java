@@ -24,4 +24,7 @@ public class Media1 {
         
         System.out.println("MEDIA = " + mediaFormatada);
     }
+    public static void main(String[] args) {
+        media1();
+    }
 }

@@ -16,4 +16,7 @@ public class ConversorDeTempo {
 
         System.out.println(horas + ":"+ minutos + ":" + segundos);
     }
+    public static void main(String[] args) {
+        conversorDeTempo();
+    }
 }

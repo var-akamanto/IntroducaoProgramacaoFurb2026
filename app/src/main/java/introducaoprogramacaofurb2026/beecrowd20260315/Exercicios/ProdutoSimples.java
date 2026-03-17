@@ -11,4 +11,7 @@ public class ProdutoSimples {
         sc.close();
         System.out.println("PROD = " + PROD);
     }
+    public static void main(String[] args) {
+        produtoSimples();
+    }
 }

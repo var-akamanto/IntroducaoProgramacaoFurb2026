@@ -1,7 +1,7 @@
 package introducaoprogramacaofurb2026.beecrowd20260315.Exercicios;
 
-import java.util.Scanner;
 import java.text.DecimalFormat;
+import java.util.Scanner;
 
 public class AreaCirculo {
     public static void areaCirculo(){
@@ -14,5 +14,7 @@ public class AreaCirculo {
         sc.close();
         System.out.println("A="+areaFormatado);
     }
-
+    public static void main(String[] args) {
+        areaCirculo();
+    }
 }

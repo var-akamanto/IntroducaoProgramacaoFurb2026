@@ -30,4 +30,7 @@ public class NotasEMoedas {
                 }
         sc.close();
             }
+    public static void main(String[] args) {
+        notasEMoedas();
+    }
 }

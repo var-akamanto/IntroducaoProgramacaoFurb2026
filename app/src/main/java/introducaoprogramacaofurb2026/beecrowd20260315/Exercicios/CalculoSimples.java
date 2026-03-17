@@ -22,4 +22,7 @@ public class CalculoSimples {
 
         System.out.println("VALOR A PAGAR: R$ " + valorPagoFormatado);
     }
+    public static void main(String[] args) {
+        calculoSimples();
+    }
 }

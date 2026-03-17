@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = "introducaoprogramacaofurb2026.App"
+    mainClass = "introducaoprogramacaofurb2026.beecrowd20260315.Exercicios.Main"
 }
 
 tasks.named<Test>("test") {
